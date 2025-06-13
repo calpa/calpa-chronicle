@@ -78,3 +78,9 @@ https://calpa.me/tools/ziwei/
 請分段撰寫分析報告，並用標題區分各部分。
 ```
 ````
+
+---
+
+## 紫微斗數：朱元璋
+
+<img src="https://assets.calpa.me/朱元璋-紫微斗數.avif" class="h-full w-full p-4 object-contain mx-auto" />
