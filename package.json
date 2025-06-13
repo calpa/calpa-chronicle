@@ -6,7 +6,8 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "dev:2025-05-24": "slidev --open 2025-05-24.md"
+    "dev:2025-05-24": "slidev --open 2025-05-24.md",
+    "dev:2025-06-01": "slidev --open 2025-06-01.md"
   },
   "dependencies": {
     "@slidev/cli": "^51.8.2",
