@@ -2,7 +2,7 @@
   <CardList 
     :items="filteredEvents"
     title="精彩回顧 🔥"
-    footer="超過 700 人參加！"
+    footer="超過 1000 人參加！"
   />
 </template>
 
