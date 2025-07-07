@@ -9,7 +9,7 @@
     <div class="text-xs text-white/40 text-right">
       {{
         $slidev.configs.footerRightText ||
-        "© Calpa 的煉金工房. All rights reserved."
+        "© Calpa 的煉金工房 2025. All rights reserved."
       }}
     </div>
   </div>
