@@ -44,8 +44,8 @@ const events = [
   },
   {
     icon: "⚡",
-    title: "第七場《Bolt.new App 工作坊》（Dot.ai 香港分享會）",
-    date: "2025/07/10",
+    title: "第七場《Bolt.new App 工作坊》",
+    date: "2025/07/22",
   },
 ];
 

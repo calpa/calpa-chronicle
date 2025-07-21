@@ -5,13 +5,13 @@
   "scripts": {
     "build:2025-06-14": "slidev build 2025-06-14.md",
     "build:2025-06-28": "slidev build 2025-06-28.md",
-    "build:2025-07-10": "slidev build 2025-07-10.md",
+    "build:2025-07-22": "slidev build 2025-07-22.md",
     "dev": "slidev --open",
     "export": "slidev export",
     "dev:2025-05-24": "slidev --open 2025-05-24.md",
     "dev:2025-06-14": "slidev --open 2025-06-14.md",
     "dev:2025-06-28": "slidev --open 2025-06-28.md",
-    "dev:2025-07-10": "slidev --open 2025-07-10.md"
+    "dev:2025-07-22": "slidev --open 2025-07-22.md"
   },
   "dependencies": {
     "@slidev/cli": "^51.8.2",
