@@ -47,6 +47,11 @@ const events = [
     title: "第七場《Bolt.new App 工作坊》",
     date: "2025/07/22",
   },
+  {
+    icon: "⚡",
+    title: "第八場《Bolt.new App 工作坊》",
+    date: "2025/07/26",
+  },
 ];
 
 export default events;
