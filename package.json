@@ -8,6 +8,7 @@
     "build:2025-07-22": "slidev build 2025-07-22.md",
     "build:2025-07-26": "slidev build 2025-07-26.md",
     "build:2025-08-09": "slidev build 2025-08-09.md",
+    "build:2025-08-18": "slidev build 2025-08-18.md",
     "dev": "slidev --open",
     "export": "slidev export",
     "dev:2025-05-24": "slidev --open 2025-05-24.md",
@@ -15,7 +16,8 @@
     "dev:2025-06-28": "slidev --open 2025-06-28.md",
     "dev:2025-07-22": "slidev --open 2025-07-22.md",
     "dev:2025-07-26": "slidev --open 2025-07-26.md",
-    "dev:2025-08-09": "slidev --open 2025-08-09.md"
+    "dev:2025-08-09": "slidev --open 2025-08-09.md",
+    "dev:2025-08-18": "slidev --open 2025-08-18.md"
   },
   "dependencies": {
     "@slidev/cli": "^51.8.2",
