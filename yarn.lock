@@ -2620,6 +2620,7 @@ __metadata:
     "@slidev/cli": "npm:^51.8.2"
     "@slidev/theme-default": "npm:latest"
     "@slidev/theme-seriph": "npm:latest"
+    qrcode.vue: "npm:^3.6.0"
     slidev-theme-dracula: "npm:^0.2.0"
     vue: "npm:^3.5.16"
   languageName: unknown
@@ -5876,6 +5877,15 @@ __metadata:
   version: 2.3.1
   resolution: "punycode.js@npm:2.3.1"
   checksum: 10c0/1d12c1c0e06127fa5db56bd7fdf698daf9a78104456a6b67326877afc21feaa821257b171539caedd2f0524027fa38e67b13dd094159c8d70b6d26d2bea4dfdb
+  languageName: node
+  linkType: hard
+
+"qrcode.vue@npm:^3.6.0":
+  version: 3.6.0
+  resolution: "qrcode.vue@npm:3.6.0"
+  peerDependencies:
+    vue: ^3.0.0
+  checksum: 10c0/47324708259664311d378fc10b7b00c79c9966a7d192c54af7fe4a6406ce911e7940e82b2b004d880f49380b78999ab39d491d5a54743b0f66cfe4a2ce3a7529
   languageName: node
   linkType: hard
 
